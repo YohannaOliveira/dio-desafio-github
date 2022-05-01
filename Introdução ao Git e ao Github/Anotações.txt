@@ -1,0 +1,14 @@
+Passo a passo para iniciar um repositório:
+
+> Na pasta do arquivo desejado, clique com o botão direito do mouse e selecione "GIT BASH Here".
+> Abrirá o terminal do GIT BASH na hora
+> git init
+> Para configurar o GIT: git config --global user.email "yohannaoliveira50@gmail.com"
+> git config --global user.name Yohanna
+> git add *
+> git commit -m "initial commit"
+> Ir no GitHub e gerar um novo repositório
+> No terminal: git remote add origin + a url do repositório
+> git remote -v
+> git push origin master
+> Atualizar no GitHub
